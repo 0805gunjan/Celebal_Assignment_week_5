@@ -1,0 +1,7 @@
+2025-07-07 10:31:50,295 - INFO - Script started
+2025-07-07 10:31:50,775 - INFO -  Connected to MySQL using SQLAlchemy
+2025-07-07 10:31:50,801 - INFO -  Data fetched from student table
+2025-07-07 10:31:50,805 - INFO -  CSV saved to C:/Users/DELL/Desktop/ExportOutput/student.csv
+2025-07-07 10:31:50,999 - INFO -  Parquet saved to C:/Users/DELL/Desktop/ExportOutput/student.parquet
+2025-07-07 10:31:51,003 - INFO -  Avro saved to C:/Users/DELL/Desktop/ExportOutput/student.avro
+2025-07-07 10:31:51,003 - INFO -  Export script finished successfully

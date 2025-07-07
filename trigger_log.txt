@@ -1,0 +1,4 @@
+2025-07-07 10:31:38,077 - INFO -  Watching folder: C:/Users/DELL/Desktop/Celebal Projects/Celebal_Assignment_week_5/trigger/
+2025-07-07 10:31:44,776 - INFO -  File created: C:/Users/DELL/Desktop/Celebal Projects/Celebal_Assignment_week_5/trigger/New Text Document.txt
+2025-07-07 10:31:44,776 - INFO -  Running export_files.py...
+2025-07-07 10:31:51,130 - INFO -  export_files.py completed.
